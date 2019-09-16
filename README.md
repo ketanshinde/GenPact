@@ -20,4 +20,6 @@ Some where i have took the help of singleton pattern, used genrics (Type), busin
 NOTE: 
 Some time the api "themoviedb" donot make secure connection with server. That machine may have SSL certifcate issue.
 I encountered same issue while i was running the code in different mac machine. I hit the api in browser but unable to store the secure connection, hence SLL Handshake failed.
+I also uploaed screen shot from device how app looks like.
+Thanks! :)
 
