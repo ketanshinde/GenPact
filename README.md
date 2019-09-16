@@ -12,6 +12,7 @@ All below points are covered in sample:
  
 Brief Explanation:
 I get the api support from "themoviedb" followed by creating API_KEYS and loading the popular movies in tableView.
+I installed pods through carthage,(pods are already know)
 I opted forthe mvvm architecture and pritty much modular code with followed guidline so later on easy to test.
 Core data is used for coordianting with persistence storage.
 Some where i have took the help of singleton pattern, used genrics (Type), business logic in separate file etc etc.
