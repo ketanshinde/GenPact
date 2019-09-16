@@ -1,6 +1,14 @@
 # GenPact
 Sample assignment.
 
+![alt text](https://github.com/ketanshinde/GenPact/blob/master/GenPact/Assets.xcassets/IMG_0360.imageset/IMG_0360.png)
+![alt text](https://github.com/ketanshinde/GenPact/blob/master/GenPact/Assets.xcassets/IMG_0360.imageset/IMG_0361.png)
+![alt text](https://github.com/ketanshinde/GenPact/blob/master/GenPact/Assets.xcassets/IMG_0360.imageset/IMG_0362.png)
+![alt text](https://github.com/ketanshinde/GenPact/blob/master/GenPact/Assets.xcassets/IMG_0360.imageset/IMG_0363.png)
+![alt text](https://github.com/ketanshinde/GenPact/blob/master/GenPact/Assets.xcassets/IMG_0360.imageset/IMG_0364.png)
+![alt text](https://github.com/ketanshinde/GenPact/blob/master/GenPact/Assets.xcassets/IMG_0360.imageset/IMG_0365.png)
+
+
 All below points are covered in sample:
 1. User should be able to view list of items which will be fetched from cloud/server. 
 2. User should be able to view details by selecting an item from list. 
