@@ -12,7 +12,14 @@ All below points are covered in sample:
  
 Brief Explanation:
 I get the api support from "themoviedb" followed by creating API_KEYS and loading the popular movies in tableView.
+I installed libraries through carthage,(pods are already know)
 I opted forthe mvvm architecture and pritty much modular code with followed guidline so later on easy to test.
 Core data is used for coordianting with persistence storage.
 Some where i have took the help of singleton pattern, used genrics (Type), business logic in separate file etc etc.
+
+NOTE: 
+Some time the api "themoviedb" donot make secure connection with server. That machine may have SSL certifcate issue.
+I encountered same issue while i was running the code in different mac machine. I hit the api in browser but unable to store the secure connection, hence SLL Handshake failed.
+I also uploaed screen shot from device how app looks like.
+Thanks! :)
 
